@@ -41,3 +41,4 @@
 ---
 
 - for discussion: https://react.dev/community
+- whole project in English. blog posts for both Chinese and English.
