@@ -1,9 +1,35 @@
+# products
+- id
+- name
+- description
+- price
+- is_highlighted
+- timestamps
+
+# comments
+- id
+- content
+- product_id
+- user_id
+- timestamps
+
+# orders
+- id
+- product_id
+- user_id
+- timestamps
+
+- truncate all 3 tables daily
+- seed 7 demo products (random fruit image from unsplash) + 1 real service product (highlighted)
+
+---
+
 - public
   - queries
-    - categories
-    - category
     - products
     - product
+    - orders
+    - comments
   - mutations
     - (none)
 
@@ -20,12 +46,9 @@
 
 - admin
   - queries
-    - users
-    - orders
-    - comments
+    - products
   - mutations
-    - deleteOrder
-    - deleteComment
+    - createProduct
 
 ---
 
@@ -42,3 +65,9 @@
 
 - for discussion: https://react.dev/community
 - whole project in English. blog posts for both Chinese and English.
+
+---
+
+- don't use pagination. KISS.
+- member/admin schemas need auth mechanism
+- demo page be able to generate auth token
