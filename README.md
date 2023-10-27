@@ -55,6 +55,9 @@
     - products
   - mutations
     - createProduct
+    <!-- - updateProduct
+    - deleteProduct -->
+    - if user delete all products, not good for others to play around
 
 ---
 
