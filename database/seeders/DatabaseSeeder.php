@@ -19,6 +19,11 @@ class DatabaseSeeder extends Seeder
         $this->seedComments();
 
         \App\Models\Subscriber::factory()->count(100)->create();
+
+        \App\Models\Product::factory()
+            ->has(\App\Models\Comment::factory()->count(3))
+            ->count(10)
+            ->create();
     }
 
     public function seedProducts()
