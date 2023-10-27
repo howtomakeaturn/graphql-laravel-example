@@ -13,14 +13,20 @@
 - user_id
 - timestamps
 
-# orders
+# subscribers
+- id
+- email
+- timestamps
+
+<!-- # orders
 - id
 - product_id
 - user_id
-- timestamps
+- timestamps -->
 
 - truncate all 3 tables daily
 - seed 7 demo products (random fruit image from unsplash) + 1 real service product (highlighted)
+- launch phase 1
 
 ---
 
@@ -28,18 +34,18 @@
   - queries
     - products
     - product
-    - orders
+    <!-- - orders -->
     - comments
   - mutations
-    - (none)
+    - createSubscriber
 
 - member
   - queries
-    - orders
+    <!-- - orders -->
     - comments
   - mutations
-    - createOrder
-    - deleteOrder
+    <!-- - createOrder
+    - deleteOrder -->
     - createComment
     - updateComment
     - deleteComment
@@ -57,9 +63,13 @@
   - graphql playground: for testing & demo
   - github link -> get source code here
   - discussions/freelance service: TBD.
+  - register/login to get personal access token
 
 - https://howtomakeaturn.github.io/graphql-react-example/ -> customer app -> mantine ui
 - https://howtomakeaturn.github.io/graphql-vue-example/ -> admin app -> quasar ui
+
+- vue-customer.graphql-laravel-example.tw
+- react-admin.graphql-laravel-example.tw
 
 ---
 
