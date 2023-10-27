@@ -17,6 +17,7 @@ class CreatePhase1Tables extends Migration
             $table->id();
             $table->string('name');
             $table->text('description');
+            $table->string('featured_image');
             $table->unsignedInteger('price');
             $table->boolean('is_highlighted');
             $table->timestamps();

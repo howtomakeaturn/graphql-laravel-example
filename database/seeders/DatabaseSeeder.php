@@ -33,6 +33,7 @@ class DatabaseSeeder extends Seeder
             'description' => "Hi I'm Chuan-Hao, the creator of 'GraphQL Laravel Example' project." .
                 PHP_EOL . PHP_EOL .
                 "If you are interested in the tech stack and need my help, please visit https://xxx.xxx for more information.",
+            'featured_image' => 'https://job.turn.tw/img/talk.jpg',
             'price' => 12345678,
             'is_highlighted' => true,
             'created_at' => now(),
@@ -44,6 +45,7 @@ class DatabaseSeeder extends Seeder
             'description' => "您好，我是阿川，「GraphQL Laravel Example」專案的作者。" .
                 PHP_EOL . PHP_EOL .
                 "如果您有興趣在專案中導入這些技術，歡迎參考我的顧問服務 https://xxx.xxx",
+            'featured_image' => 'https://codelove.tw/img/me.jpeg',
             'price' => 12345678,
             'is_highlighted' => true,
             'created_at' => now(),

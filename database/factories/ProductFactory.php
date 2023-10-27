@@ -26,12 +26,14 @@ class ProductFactory extends Factory
             'Lemon',
             'Peach',
             'Cherry',
-            'Peach',
         ];
 
+        $fruit = $fruits[array_rand($fruits)];
+
         return [
-            'name' => $fruits[array_rand($fruits)],
+            'name' => $fruit,
             'description' => $this->faker->text(),
+            'featured_image' => "https://source.unsplash.com/random/800×600/?$fruit",
             'price' => $this->faker->numberBetween(100, 1000),
             'is_highlighted' => false,
             'created_at' => now(),
