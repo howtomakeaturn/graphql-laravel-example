@@ -28,6 +28,7 @@
             <p>Email: <a href="mailto:howtomakeaturn@gmail.com">howtomakeaturn@gmail.com</a></p>
             <p>Twitter: <a href="https://twitter.com/howtomakeaturn">My twitter</a></p>
             <p>Facebook: <a href="https://www.facebook.com/chuanhao.you">My facebook</a></p>
+            <p>Let's discuss the budget and find out a way to work together! 🚀🚀🚀</p>
             <hr>
             <p><a href="/">Back to Home</a></p>
         </div>
