@@ -24,7 +24,8 @@
     <body>
         <div class="container mx-auto px-4 mt-4 prose">
             <h1>Consulting Service / Contact</h1>
-            <p>Hi, if you need me to help you use graphql + laravel, contact me here:</p>
+            <p>Hi, I'm Chuan-Hao, an experienced full-stack developer based in Taipei.</p>
+            <p>If you need me to help you use graphql + laravel, contact me here:</p>
             <p>Email: <a href="mailto:howtomakeaturn@gmail.com">howtomakeaturn@gmail.com</a></p>
             <p>Twitter: <a href="https://twitter.com/howtomakeaturn">My twitter</a></p>
             <p>Facebook: <a href="https://www.facebook.com/chuanhao.you">My facebook</a></p>
