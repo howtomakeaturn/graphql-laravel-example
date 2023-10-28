@@ -98,3 +98,7 @@ https://codelove.tw/img/me.jpeg
 - for id 2
   - 貴公司使用 laravel 框架嗎？很適合使用 graphql 技術來加速開發喔！
   - 不論是小型新創或者是大型開發團隊，graphql 技術都會對團隊工作很有幫助！
+
+---
+
+- Contact me on Twitter
