@@ -25,10 +25,11 @@
         <div class="container mx-auto px-4 mt-4 prose">
             <h1>GraphQL Laravel Example</h1>
             <h2>A comprehensive example project to show how to use graphql + laravel in the real world!</h2>
-            <p>I built a simple e-commerce site with React + Vue + GraphQL + Laravel!</p>
+            <!-- <p>I built a simple e-commerce site with React + Vue + GraphQL + Laravel!</p>
             <p>Try GraphQL Playground here to see all demo APIs: <a href="https://xxx.xxx">https://xxx.xxx</a></p>
             <p>React frontend example: <a href="/">customer web app for the e-commerce site</a></p>
-            <p>Vue frontend example: <a href="/">admin web app for the e-commerce site</a></p>
+            <p>Vue frontend example: <a href="/">admin web app for the e-commerce site</a></p> -->
+            <p>Try GraphQL Playground here to see all demo APIs: <a href="{{ url('/playground') }}">{{ url('/playground') }}</a></p>
             <p>You should be able to build any apps with these examples & source code! 🎉🎉🎉</p>
             <h3>Author</h3>
             <p>Made by Chuan-Hao, an experienced full-stack developer based in Taipei. </p>
