@@ -29,6 +29,7 @@
             <p>Try GraphQL Playground here to see all demo APIs: <a href="https://xxx.xxx">https://xxx.xxx</a></p>
             <p>React frontend example: <a href="/">customer web app for the e-commerce site</a></p>
             <p>Vue frontend example: <a href="/">admin web app for the e-commerce site</a></p> -->
+            <p>I built a simple e-commerce API with GraphQL + Laravel!</p>
             <p>Try GraphQL Playground here to see all demo APIs: <a href="{{ url('/playground') }}">{{ url('/playground') }}</a></p>
             <p>You should be able to build any apps with these examples & source code! 🎉🎉🎉</p>
             <h3>Author</h3>
