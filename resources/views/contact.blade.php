@@ -22,7 +22,7 @@
 
     </head>
     <body>
-        <div class="container mx-auto px-4 mt-4 prose">
+        <div class="container mx-auto px-4 mt-4 mb-8 prose">
             <h1>Consulting Service / Contact</h1>
             <p>Hi, I'm Chuan-Hao, an experienced full-stack developer based in Taipei.</p>
             <p>If you need me to help you use graphql + laravel, contact me here:</p>
