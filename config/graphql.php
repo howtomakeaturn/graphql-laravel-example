@@ -75,14 +75,17 @@ return [
     'schemas' => [
         'default' => [
             'query' => [
-                // ExampleQuery::class,
+                App\GraphQL\Queries\ProductsQuery::class,
+                App\GraphQL\Queries\CommentsQuery::class,
             ],
             'mutation' => [
                 // ExampleMutation::class,
             ],
             // The types only available in this schema
             'types' => [
-                // ExampleType::class,
+                App\GraphQL\Types\UserType::class,
+                App\GraphQL\Types\ProductType::class,
+                App\GraphQL\Types\CommentType::class,
             ],
 
             // Laravel HTTP middleware
