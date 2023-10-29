@@ -75,6 +75,7 @@ return [
     'schemas' => [
         'default' => [
             'query' => [
+                App\GraphQL\Queries\ProductQuery::class,
                 App\GraphQL\Queries\ProductsQuery::class,
                 App\GraphQL\Queries\CommentsQuery::class,
             ],
