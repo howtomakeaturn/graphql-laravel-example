@@ -26,7 +26,7 @@
             <h1>Consulting Service / Contact</h1>
             <p>Hi, I'm Chuan-Hao, an experienced full-stack developer based in Taipei.</p>
             <p>If you need me to help you use graphql + laravel, contact me here:</p>
-            <p>Email: <a href="mailto:howtomakeaturn@gmail.com">howtomakeaturn@gmail.com</a></p>
+            <p>Email: <a href="mailto:howtomakeaturn@hotmail.com">howtomakeaturn@hotmail.com</a></p>
             <p>Twitter: <a href="https://twitter.com/howtomakeaturn">My twitter</a></p>
             <p>Facebook: <a href="https://www.facebook.com/chuanhao.you">My facebook</a></p>
             <p>Let's discuss the budget and find out a way to work together! 🚀🚀🚀</p>

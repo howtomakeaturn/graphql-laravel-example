@@ -30,7 +30,7 @@
             <p>React frontend example: <a href="/">customer web app for the e-commerce site</a></p>
             <p>Vue frontend example: <a href="/">admin web app for the e-commerce site</a></p> -->
             <p>I built a simple e-commerce API with GraphQL + Laravel!</p>
-            <p>Try GraphQL Playground here to see all demo APIs: <a href="{{ url('/playground') }}">{{ url('/playground') }}</a></p>
+            <p>Try GraphiQL (the official IDE) here to see all demo APIs: <a href="{{ url('/graphiql') }}">{{ url('/graphiql') }}</a></p>
             <p>You should be able to build any apps with these examples & source code! 🎉🎉🎉</p>
             <h3>Author</h3>
             <p>Made by Chuan-Hao, an experienced full-stack developer based in Taipei. </p>
