@@ -20,6 +20,15 @@
             }
         </style>
 
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-J0PKKVYBQ3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-J0PKKVYBQ3');
+        </script>
     </head>
     <body>
         <div class="container mx-auto px-4 mt-4 mb-8 prose break-words">
