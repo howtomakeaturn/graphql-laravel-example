@@ -22,7 +22,7 @@
 
     </head>
     <body>
-        <div class="container mx-auto px-4 mt-4 mb-8 prose">
+        <div class="container mx-auto px-4 mt-4 mb-8 prose break-words">
             <h1>GraphQL Laravel Example</h1>
             <h2>A comprehensive example project to show how to use graphql + laravel in the real world!</h2>
             <!-- <p>I built a simple e-commerce site with React + Vue + GraphQL + Laravel!</p>
