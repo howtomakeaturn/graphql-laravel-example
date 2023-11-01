@@ -64,3 +64,8 @@
 - don't use pagination. KISS.
 - member/admin schemas need auth mechanism
 - demo page be able to generate auth token
+
+# Reports
+
+- https://analytics.google.com/analytics/web/?hl=zh-TW&pli=1#/p414153911/reports/intelligenthome
+- https://search.google.com/search-console?resource_id=https%3A%2F%2Fgraphql-laravel-example.tw%2F
