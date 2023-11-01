@@ -32,6 +32,9 @@
             <p>I built a simple e-commerce API with GraphQL + Laravel!</p>
             <p>Try GraphiQL (the official IDE) here to see all demo APIs: <a href="{{ url('/graphiql') }}">{{ url('/graphiql') }}</a></p>
             <p>You should be able to build any apps with these examples & source code! 🎉🎉🎉</p>
+            <h3>Notes</h3>
+            <p>1. In real projects, you should only enable GraphiQL in the local environment.</p>
+            <p>2. You can use <a href="https://github.com/howtomakeaturn/graphql-laravel-example/discussions">Github Discussions</a> if you have any questions.</p>
             <h3>Author</h3>
             <p>Made by Chuan-Hao, an experienced full-stack developer based in Taipei. </p>
             <p>If you need my consulting service, please visit: <a href="{{ url('/contact') }}">{{ url('/contact') }}</a></p>
