@@ -80,7 +80,7 @@ return [
                 App\GraphQL\Queries\CommentsQuery::class,
             ],
             'mutation' => [
-                // ExampleMutation::class,
+                App\GraphQL\Mutations\CreateSubscriberMutation::class,
             ],
             // The types only available in this schema
             'types' => [
