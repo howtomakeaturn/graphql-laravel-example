@@ -65,6 +65,15 @@
 - member/admin schemas need auth mechanism
 - demo page be able to generate auth token
 
+---
+
+- Laravel + GraphQL 接案心得＆範例分享 Part 1：強大優點、工具介紹、API 線上試玩
+- Laravel + GraphQL 接案心得＆範例分享 Part 2：前端範例分享，含  React、Vue、純粹 JS (jQuery?) 寫法
+- Laravel + GraphQL 接案心得＆範例分享 Part 3：登入驗證機制、流程與套件範例
+- Laravel + GraphQL 接案心得＆範例分享 Part 4：角色與權限機制、內部管理 API 開發範例
+- Laravel + GraphQL 接案心得＆範例分享 Part 5：如何開發上傳檔案功能
+- Part 6 how to write tests
+
 # Reports
 
 - https://analytics.google.com/analytics/web/?hl=zh-TW&pli=1#/p414153911/reports/intelligenthome
