@@ -1,5 +1,7 @@
 # GraphQL Laravel Example
 
+Official link is here https://graphql-laravel-example.tw/
+
 A comprehensive example project to show how to use graphql + laravel in the real world!
 
 ## Introduction
