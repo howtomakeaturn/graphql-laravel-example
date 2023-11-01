@@ -1,66 +1,27 @@
-<!-- # orders
-- id
-- product_id
-- user_id
-- timestamps -->
+# GraphQL Laravel Example
 
-- truncate all 3 tables daily
-- seed 7 demo products (random fruit image from unsplash) + 1 real service product (highlighted)
-- launch phase 1
+A comprehensive example project to show how to use graphql + laravel in the real world!
 
----
+## Introduction
 
-- public
-  - queries
-    - products
-    - product
-    <!-- - orders -->
-    - comments
-  - mutations
-    - createSubscriber
+I built a simple e-commerce API with GraphQL + Laravel!
 
-- member
-  - queries
-    <!-- - orders -->
-    - comments
-  - mutations
-    <!-- - createOrder
-    - deleteOrder -->
-    - createComment
-    - updateComment
-    - deleteComment
+Try GraphiQL (the official IDE) here to see all demo APIs: http://graphql-laravel-example.tw/graphiql
 
-- admin
-  - queries
-    - products
-  - mutations
-    - createProduct
-    <!-- - updateProduct
-    - deleteProduct -->
-    - if user delete all products, not good for others to play around
+You should be able to build any apps with these examples & source code! 🎉🎉🎉
 
----
+## Notes
 
-- graphql-laravel-example.tw
-  - index: about this project
-  - graphql playground: for testing & demo
-  - github link -> get source code here
-  - discussions/freelance service: TBD.
-  - register/login to get personal access token
+1. In real projects, you should only enable GraphiQL in the local environment.
 
-- https://howtomakeaturn.github.io/graphql-react-example/ -> customer app -> mantine ui
-- https://howtomakeaturn.github.io/graphql-vue-example/ -> admin app -> quasar ui
+2. You can use Github Discussions if you have any questions.
 
-- vue-customer.graphql-laravel-example.tw
-- react-admin.graphql-laravel-example.tw
+## Author
 
----
+Made by Chuan-Hao, an experienced full-stack developer based in Taipei.
 
-- for discussion: https://react.dev/community
-- whole project in English. blog posts for both Chinese and English.
+If you need my consulting service, please visit: http://graphql-laravel-example.tw/contact
 
----
+## Source code
 
-- don't use pagination. KISS.
-- member/admin schemas need auth mechanism
-- demo page be able to generate auth token
+https://github.com/howtomakeaturn/graphql-laravel-example
