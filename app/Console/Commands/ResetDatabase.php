@@ -44,7 +44,7 @@ class ResetDatabase extends Command
 
         DB::table('subscribers')->truncate();
 
-        \Artisan::call("db:seed");
+        \Artisan::call('db:seed', ['--force' => true]);
 
         return 0;
     }
