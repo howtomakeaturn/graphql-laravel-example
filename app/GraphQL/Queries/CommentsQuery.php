@@ -23,7 +23,6 @@ class CommentsQuery extends Query
     public function resolve($root, array $args, $context, ResolveInfo $resolveInfo, Closure $getSelectFields)
     {
         return Comment::with('product', 'user')
-            ->orderBy('created_at', 'desc')
             ->get();;
     }
 }

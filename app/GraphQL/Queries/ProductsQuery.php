@@ -23,7 +23,6 @@ class ProductsQuery extends Query
     public function resolve($root, array $args, $context, ResolveInfo $resolveInfo, Closure $getSelectFields)
     {
         return Product::with('comments')
-            ->orderBy('created_at', 'desc')
             ->get();;
     }
 }
