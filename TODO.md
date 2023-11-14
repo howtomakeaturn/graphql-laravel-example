@@ -48,11 +48,8 @@
   - discussions/freelance service: TBD.
   - register/login to get personal access token
 
-- https://howtomakeaturn.github.io/graphql-react-example/ -> customer app -> mantine ui
-- https://howtomakeaturn.github.io/graphql-vue-example/ -> admin app -> quasar ui
-
-- vue-customer.graphql-laravel-example.tw
-- react-admin.graphql-laravel-example.tw
+- react-customer.graphql-laravel-example.tw -> react-customer-graphql-laravel-example
+- vue-admin.graphql-laravel-example.tw -> vue-admin-graphql-laravel-example
 
 ---
 
