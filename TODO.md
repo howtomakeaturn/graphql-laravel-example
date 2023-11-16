@@ -4,12 +4,6 @@
 - user_id
 - timestamps -->
 
-- truncate all 3 tables daily
-- seed 7 demo products (random fruit image from unsplash) + 1 real service product (highlighted)
-- launch phase 1
-
----
-
 - public
   - queries
     - products
@@ -48,8 +42,8 @@
   - discussions/freelance service: TBD.
   - register/login to get personal access token
 
-- react-customer.graphql-laravel-example.tw -> react-customer-graphql-laravel-example
-- vue-admin.graphql-laravel-example.tw -> vue-admin-graphql-laravel-example
+- react-customer.graphql-laravel-example.tw -> graphql-react-example
+- vue-admin.graphql-laravel-example.tw -> graphql-vue-example
 
 ---
 
