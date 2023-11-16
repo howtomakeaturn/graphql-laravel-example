@@ -34,7 +34,7 @@ class ProductFactory extends Factory
             'name' => $fruit,
             'description' => $this->faker->text(),
             'featured_image' => "https://source.unsplash.com/random/800×600/?$fruit",
-            'price' => $this->faker->numberBetween(100, 1000),
+            'price' => $this->faker->numberBetween(10, 100) * 10,
             'is_highlighted' => false,
             'created_at' => now(),
             'updated_at' => now(),
