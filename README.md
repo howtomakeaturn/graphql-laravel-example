@@ -6,9 +6,15 @@ A comprehensive example project to show how to use graphql + laravel in the real
 
 ## Introduction
 
-I built a simple e-commerce API with GraphQL + Laravel!
+I built a simple e-commerce site with React + GraphQL + Laravel!
 
-Try GraphiQL (the official IDE) here to see all demo APIs: http://graphql-laravel-example.tw/graphiql
+🔥🔥React frontend example🔥🔥
+
+https://graphql-react-example.vercel.app/
+
+🔥🔥Try GraphiQL (the official IDE)🔥🔥
+
+http://graphql-laravel-example.local/graphiql
 
 You should be able to build any apps with these examples & source code! 🎉🎉🎉
 
@@ -25,5 +31,7 @@ Made by Chuan-Hao, an experienced full-stack developer based in Taipei.
 If you need my consulting service, please visit: http://graphql-laravel-example.tw/contact
 
 ## Source code
+
+https://github.com/howtomakeaturn/graphql-react-example
 
 https://github.com/howtomakeaturn/graphql-laravel-example

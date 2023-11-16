@@ -34,12 +34,11 @@
         <div class="container mx-auto px-4 mt-4 mb-8 prose break-words">
             <h1>GraphQL Laravel Example</h1>
             <h2>A comprehensive example project to show how to use graphql + laravel in the real world!</h2>
-            <!-- <p>I built a simple e-commerce site with React + Vue + GraphQL + Laravel!</p>
-            <p>Try GraphQL Playground here to see all demo APIs: <a href="https://xxx.xxx">https://xxx.xxx</a></p>
-            <p>React frontend example: <a href="/">customer web app for the e-commerce site</a></p>
-            <p>Vue frontend example: <a href="/">admin web app for the e-commerce site</a></p> -->
-            <p>I built a simple e-commerce API with GraphQL + Laravel!</p>
-            <p>Try GraphiQL (the official IDE) here to see all demo APIs: <a href="{{ url('/graphiql') }}">{{ url('/graphiql') }}</a></p>
+            <p>I built a simple e-commerce site with React + GraphQL + Laravel!</p>
+            <h3>🔥🔥React frontend example🔥🔥</h3>
+            <p><a href="https://graphql-react-example.vercel.app/">https://graphql-react-example.vercel.app/</a></p>
+            <h3>🔥🔥Try GraphiQL (the official IDE)🔥🔥</h3>
+            <p><a href="{{ url('/graphiql') }}">{{ url('/graphiql') }}</a></p>
             <p>You should be able to build any apps with these examples & source code! 🎉🎉🎉</p>
             <h3>Notes</h3>
             <p>1. In real projects, you should only enable GraphiQL in the local environment.</p>
@@ -48,6 +47,7 @@
             <p>Made by Chuan-Hao, an experienced full-stack developer based in Taipei. </p>
             <p>If you need my consulting service, please visit: <a href="{{ url('/contact') }}">{{ url('/contact') }}</a></p>
             <h3>Source code</h3>
+            <p><a href="https://github.com/howtomakeaturn/graphql-react-example">https://github.com/howtomakeaturn/graphql-react-example</a></p>
             <p><a href="https://github.com/howtomakeaturn/graphql-laravel-example">https://github.com/howtomakeaturn/graphql-laravel-example</a></p>
         </div>
     </body>
