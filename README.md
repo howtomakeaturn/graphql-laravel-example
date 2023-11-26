@@ -14,7 +14,7 @@ https://graphql-react-example.vercel.app/
 
 🔥🔥Try GraphiQL (the official IDE)🔥🔥
 
-http://graphql-laravel-example.local/graphiql
+https://graphql-laravel-example.tw/graphiql
 
 You should be able to build any apps with these examples & source code! 🎉🎉🎉
 
